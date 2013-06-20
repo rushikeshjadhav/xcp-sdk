@@ -2,7 +2,7 @@
 
 set -e
 
-GITREPOS=(git://github.com/xen-org/xen-api.git)
+GITREPOS=(git://github.com/xapi-project/xen-api.git)
 
 PACKAGES="vim-enhanced git tmux pkgconfig libX11 bash-completion zlib-devel pam-devel SDL e4fsprogs-libs tetex-latex"
 EPEL=http://dl.fedoraproject.org/pub/epel/5/i386/epel-release-5-4.noarch.rpm
